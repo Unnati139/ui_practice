@@ -1,0 +1,14 @@
+.top-bar{
+    background-color: #192f59;
+    height: 3em;
+    color: #96a2b8;
+}
+.top-bar-container{
+    display: flex;
+    
+}
+.flex{
+    display: flex;
+    justify-content: left;
+    align-items: left;
+}

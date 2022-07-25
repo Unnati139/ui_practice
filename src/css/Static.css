@@ -1,0 +1,27 @@
+.fixed-part{
+    background-color: brown;
+
+}
+.flex{
+    display: flex;
+}
+.fixed-part-outer{
+    background-color: azure;
+    height: 8em;
+    width:25%;
+
+}
+.icon{
+    color:#163269;
+    margin-top: 35px;
+    margin-left: 20px;
+}
+.fixed-part-inner-right{
+    margin: 30px;
+}
+.fixed-part-title{
+    color:#163269
+}
+.fixed-part-caption{
+    color:grey
+}

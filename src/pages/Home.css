@@ -1,0 +1,42 @@
+.firstdiv {
+    min-height: 80vh;
+    width: 100%;
+    background-image: linear-gradient(to right,rgba(9, 22, 61, 0.7),rgba(193, 198, 218, 0.7)),url("https://media.glassdoor.com/l/74/35/c4/05/srm-medical-college.jpg");
+   
+    /* ,rgba(4,9,30,0.7)) */
+    background-position: center;
+    background-size: cover;
+    position: relative;
+    
+}
+.flex1{
+  display: flex;
+    justify-content: center;
+    align-items: center;
+}
+/* .left{
+  background-color: blanchedalmond;
+  width: 20%;
+} */
+.textbox{
+  color: #fff;
+  text-align: center;
+  justify-content: center;
+  margin-top: 10em;
+  margin-left: auto;
+  margin-right: auto;
+  left: 0;
+  right: 0;
+  width: 60%;
+}
+.a:hover{
+  background-color: white;
+  width: 50%;
+  height: 5vh;
+  opacity: 0.5;
+  align-items: center;
+  margin-left: auto;
+  margin-right: auto;
+  left: 0;
+  right: 0;
+}
